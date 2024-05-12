@@ -44,3 +44,4 @@ To split images and labels into train val and test sets as per YOLO requirement
 
 9. The code is well documented and linting error free.
 
+The models weights are available here incase if there is problem in downloading -->  https://drive.google.com/drive/folders/1FG2IOaDW8fOf28P8lji_WC0yEJZgYGmP?usp=sharing
